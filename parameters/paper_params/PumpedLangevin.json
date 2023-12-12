@@ -1,0 +1,9 @@
+{
+    "sigma":"decay",
+    "dt":0.005,
+    "N":1,
+    "initial_p":0.0,
+    "final_p":1.5,
+    "pump_schedule":"linear",
+    "T":15000
+}

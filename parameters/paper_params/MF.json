@@ -1,0 +1,14 @@
+{
+    "pump_schedule" : "linear",
+    "j_schedule" : "decay",
+    "initial_p" : 0.0,
+    "final_p" : 2.5,
+    "dt" : 0.0025,
+    "N" : 2,
+    "T" : 15000,
+    "j": 25,
+    "g": 0.01,
+    "lam": 550,
+    "rescale_prob" : true, 
+    "clamp" : false
+}
